@@ -38,8 +38,7 @@ Tenho interesse em tecnologia, automação, inteligência artificial e desenvolv
 * Data Science
 * Inteligência Artificial
 * Automação
-* Tecnologia
-* Desenvolvimento Back-end
+* Engenharia de Dados
 
 ---
 
